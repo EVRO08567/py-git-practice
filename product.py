@@ -3,4 +3,5 @@
         self.name = name
         self.price = price
 
-    # TODO: Написать метод расчета итоговой цены
+    def get_final_price(self, discount):
+        return self.price - (self.price * discount / 100)
