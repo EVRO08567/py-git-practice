@@ -1,4 +1,4 @@
 ﻿SETTINGS = {
-    "app_name": "University System",
+    "app_name": "Student System",
     "debug": False,
 }
